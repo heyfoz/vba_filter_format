@@ -4,4 +4,4 @@ The FilterFormat.txt file contains VBA macro code that autmoatically formats and
 
 Link to FilterFormat.txt code: <a href="https://github.com/ffm5113/vba_filter_format/blob/main/FilterFormat.txt">FilterFormat.txt File</a>
 
-Copytight (c) Forrest Moulin
+Copytight (c) 2022 Forrest Moulin
