@@ -3,7 +3,7 @@ Private Sub FilterNFormat()
 ' FilterNFormat Macro Sample
 ' By Forrest Moulin
 '
-' Autmoatically formats and filters excel file by calling multiple
+' Automatically formats and filters Excel file by calling multiple
 ' custom VBA macros.
 
   ' Macro file name object creation
